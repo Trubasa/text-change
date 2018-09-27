@@ -1,6 +1,6 @@
 # txt-change
 
-> 文本加密小工具，使用了vue，element-ui，crypto-js
+> 文本加密小工具，使用了vue，element-ui，crypto-js，查看[demo](https://trubasa.github.io/text-change/dist/)]
 
 ## Build Setup
 
